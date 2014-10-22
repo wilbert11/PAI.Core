@@ -1,0 +1,4 @@
+PAI.Core
+========
+
+Proyecto Análisis
